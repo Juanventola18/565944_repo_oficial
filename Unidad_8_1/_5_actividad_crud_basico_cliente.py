@@ -45,6 +45,15 @@ clientes = [
 """
 
 
+# READ (Búsqueda de cliente por campo indicado clave:valor) 
+"""
+1. Buscar un cliente a partir de su id_cliente. 
+2. Utilizar un for para recorrer la lista. 
+3. Guardar el resultado en una variable. 
+4. Mostrar el cliente encontrado. 
+"""
+
+
 # UPDATE (Modificación de un cliente según su id) 
 """
 1. Recorrer la lista de clientes. 
@@ -52,7 +61,6 @@ clientes = [
 3. Modificar su email. 
 4. Mostrar el cliente actualizado. 
 """
-
 
 
 # DELETE (Eliminación de un cliente según su id) 
